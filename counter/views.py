@@ -20,7 +20,7 @@ def main_page(request):
 
 			<body>
 			<h2> Conneted to my site </h2>
-			We will use this for hit countsit
+			We will use this for hit counts and time stamps
 			<ul>
 				<li><h3>The total number of hitcounts is %s </h3></li>
 				<li><h3>Recent time stamp is %s</h3></li>
